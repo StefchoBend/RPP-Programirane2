@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obrabotka na masiv", "Obrabotka na masiv\Obrabotka na masiv.csproj", "{AC61D177-184F-4AD0-B3AE-B09F4286DC41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC61D177-184F-4AD0-B3AE-B09F4286DC41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC61D177-184F-4AD0-B3AE-B09F4286DC41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC61D177-184F-4AD0-B3AE-B09F4286DC41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC61D177-184F-4AD0-B3AE-B09F4286DC41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CD67B33-FE4D-47E0-92AD-F334B4130F30}
+	EndGlobalSection
+EndGlobal
