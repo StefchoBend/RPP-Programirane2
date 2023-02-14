@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.32929.386
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNum", "RemoveNum\RemoveNum.csproj", "{70707855-FF40-44B3-BBD7-3F3131220D07}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNonPositiveNums", "RemoveNonPositiveNums\RemoveNonPositiveNums.csproj", "{B95E8CC3-BBDB-448C-AE8E-4FBF0C6AAAA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlivaneNaSpisuci", "SlivaneNaSpisuci\SlivaneNaSpisuci.csproj", "{FD5CFF3B-221C-439D-B804-99D56259C5C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{70707855-FF40-44B3-BBD7-3F3131220D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70707855-FF40-44B3-BBD7-3F3131220D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70707855-FF40-44B3-BBD7-3F3131220D07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B95E8CC3-BBDB-448C-AE8E-4FBF0C6AAAA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B95E8CC3-BBDB-448C-AE8E-4FBF0C6AAAA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B95E8CC3-BBDB-448C-AE8E-4FBF0C6AAAA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B95E8CC3-BBDB-448C-AE8E-4FBF0C6AAAA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD5CFF3B-221C-439D-B804-99D56259C5C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD5CFF3B-221C-439D-B804-99D56259C5C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD5CFF3B-221C-439D-B804-99D56259C5C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD5CFF3B-221C-439D-B804-99D56259C5C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
